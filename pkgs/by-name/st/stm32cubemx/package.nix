@@ -126,6 +126,7 @@ buildFHSEnv {
       nspr
       nss
       pango
+      systemd
       xorg.libX11
       xorg.libxcb
       xorg.libXcomposite
